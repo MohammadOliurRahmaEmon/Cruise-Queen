@@ -102,6 +102,26 @@ nav ul li a:hover, a.active{
     padding: 2px;
     margin: 10px 5px 0px 0px;
     word-spacing: 20px;
+    display: flex;
+}
+.firstClass-decrease{
+    margin-left:12px;
+    margin-top:12px;
+}
+.firstClass-increase{
+    margin-top:12px;
+    padding-left:11px;
+    margin-left:2px;
+
+}
+.economyClass-increase{
+    margin-top:12px;
+    padding-left:11px;
+    margin-left:2px; 
+}
+.economyClass-decrease{
+    margin-left:12px;
+    margin-top:12px;
 }
 .booking-form .inputs{
     display: grid;
